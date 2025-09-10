@@ -30,3 +30,5 @@ Nivo/Recharts: A charting library for creating stunning data visualizations.
 
 React Router: For navigation between different pages/sections of the dashboard.
 
+Demo you cant try- from here:
+https://admin-dasboard-1c60b.web.app/
